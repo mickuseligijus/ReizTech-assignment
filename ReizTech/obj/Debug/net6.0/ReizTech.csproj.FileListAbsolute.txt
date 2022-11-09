@@ -1,0 +1,15 @@
+D:\Programu_sistemos\7_semestras\Projektai\ReizTech\ReizTech\bin\Debug\net6.0\ReizTech.exe
+D:\Programu_sistemos\7_semestras\Projektai\ReizTech\ReizTech\bin\Debug\net6.0\ReizTech.deps.json
+D:\Programu_sistemos\7_semestras\Projektai\ReizTech\ReizTech\bin\Debug\net6.0\ReizTech.runtimeconfig.json
+D:\Programu_sistemos\7_semestras\Projektai\ReizTech\ReizTech\bin\Debug\net6.0\ReizTech.dll
+D:\Programu_sistemos\7_semestras\Projektai\ReizTech\ReizTech\bin\Debug\net6.0\ReizTech.pdb
+D:\Programu_sistemos\7_semestras\Projektai\ReizTech\ReizTech\obj\Debug\net6.0\ReizTech.csproj.AssemblyReference.cache
+D:\Programu_sistemos\7_semestras\Projektai\ReizTech\ReizTech\obj\Debug\net6.0\ReizTech.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programu_sistemos\7_semestras\Projektai\ReizTech\ReizTech\obj\Debug\net6.0\ReizTech.AssemblyInfoInputs.cache
+D:\Programu_sistemos\7_semestras\Projektai\ReizTech\ReizTech\obj\Debug\net6.0\ReizTech.AssemblyInfo.cs
+D:\Programu_sistemos\7_semestras\Projektai\ReizTech\ReizTech\obj\Debug\net6.0\ReizTech.csproj.CoreCompileInputs.cache
+D:\Programu_sistemos\7_semestras\Projektai\ReizTech\ReizTech\obj\Debug\net6.0\ReizTech.dll
+D:\Programu_sistemos\7_semestras\Projektai\ReizTech\ReizTech\obj\Debug\net6.0\refint\ReizTech.dll
+D:\Programu_sistemos\7_semestras\Projektai\ReizTech\ReizTech\obj\Debug\net6.0\ReizTech.pdb
+D:\Programu_sistemos\7_semestras\Projektai\ReizTech\ReizTech\obj\Debug\net6.0\ReizTech.genruntimeconfig.cache
+D:\Programu_sistemos\7_semestras\Projektai\ReizTech\ReizTech\obj\Debug\net6.0\ref\ReizTech.dll
