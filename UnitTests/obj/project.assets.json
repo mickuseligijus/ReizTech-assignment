@@ -4180,11 +4180,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programu_sistemos\\7_semestras\\Projektai\\ReizTech\\UnitTests\\UnitTests.csproj",
+      "projectUniqueName": "D:\\Programu_sistemos\\7_semestras\\Projektai\\ReizTech-assignment\\UnitTests\\UnitTests.csproj",
       "projectName": "UnitTests",
-      "projectPath": "D:\\Programu_sistemos\\7_semestras\\Projektai\\ReizTech\\UnitTests\\UnitTests.csproj",
+      "projectPath": "D:\\Programu_sistemos\\7_semestras\\Projektai\\ReizTech-assignment\\UnitTests\\UnitTests.csproj",
       "packagesPath": "C:\\Users\\micku\\.nuget\\packages\\",
-      "outputPath": "D:\\Programu_sistemos\\7_semestras\\Projektai\\ReizTech\\UnitTests\\obj\\",
+      "outputPath": "D:\\Programu_sistemos\\7_semestras\\Projektai\\ReizTech-assignment\\UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\micku\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4201,8 +4201,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Programu_sistemos\\7_semestras\\Projektai\\ReizTech\\ReizTech\\ReizTech.csproj": {
-              "projectPath": "D:\\Programu_sistemos\\7_semestras\\Projektai\\ReizTech\\ReizTech\\ReizTech.csproj"
+            "D:\\Programu_sistemos\\7_semestras\\Projektai\\ReizTech-assignment\\ReizTech\\ReizTech.csproj": {
+              "projectPath": "D:\\Programu_sistemos\\7_semestras\\Projektai\\ReizTech-assignment\\ReizTech\\ReizTech.csproj"
             }
           }
         }

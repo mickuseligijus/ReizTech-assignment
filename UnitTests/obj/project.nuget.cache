@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GXgKQO+JeVgjM3OPajWecz5VhrQ15JNTTljisqxH4YZvc/no9SErVTX63Z3vWYEzDr07SJ+mBQCYv20UfxXW0Q==",
+  "dgSpecHash": "Qk0RFFQYOdd2Kf5eM2heOelmxfGHRGGE5Qkim6brvErQiqUo31v6uCqWI8YS61MWER0z57062zcRkqlVn9h1bA==",
   "success": true,
-  "projectFilePath": "D:\\Programu_sistemos\\7_semestras\\Projektai\\ReizTech\\UnitTests\\UnitTests.csproj",
+  "projectFilePath": "D:\\Programu_sistemos\\7_semestras\\Projektai\\ReizTech-assignment\\UnitTests\\UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\micku\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\micku\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

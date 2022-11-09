@@ -1,4 +1,6 @@
-﻿using ReizTech.Services;
+﻿using ReizTech.Models;
+using ReizTech.Services;
+using System.Net.NetworkInformation;
 
 //*************** 1 task **************************************************************************************
 Console.WriteLine("Enter hours: ");
@@ -29,6 +31,45 @@ catch (Exception e)
 
 //*************** 2 task **************************************************************************************
 
-/* Implemented in Tools.class => Tools.SearchDepth(Branch branch);, Output is tested with unit tests*/
+var v11 = new Branch();
 
+var v10 = new Branch();
+
+var v9 = new Branch()
+{
+    Branches = new List<Branch>() { v11 }
+};
+
+var v8 = new Branch();
+
+var v7 = new Branch();
+
+var v6 = new Branch()
+{
+    Branches = new List<Branch>() { v9, v10 }
+};
+
+var v5 = new Branch()
+{
+    Branches = new List<Branch>() { v8 }
+};
+
+var v4 = new Branch();
+
+var v3 = new Branch()
+{
+    Branches = new List<Branch>() { v5, v6, v7 }
+};
+
+var v2 = new Branch()
+{
+    Branches = new List<Branch>() { v4 }
+};
+
+var v1 = new Branch()
+{
+    Branches = new List<Branch>() { v2, v3 }
+};
+
+Console.WriteLine("Graph depth is {0}", Tools.SearchDepth(v1));
 
